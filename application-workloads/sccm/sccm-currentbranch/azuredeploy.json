@@ -87,7 +87,7 @@
   "variables": {
     "dscScript": "DSC/DCConfiguration.zip",
     "virtualNetworkName": "[concat(toLower(parameters('prefix')), '-vnet')]",
-    "domainName": "demotechspecialist.com",
+    "domainName": "demo.com",
     "timeZone": "UTC",
     "networkSettings": {
       "virtualNetworkAddressPrefix": "10.0.0.0/16",
